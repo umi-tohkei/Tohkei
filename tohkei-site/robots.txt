@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# 公開ドメイン決定後 Sitemap: https://YOUR-DOMAIN/sitemap.xml を追加
